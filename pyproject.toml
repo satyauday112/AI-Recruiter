@@ -8,5 +8,6 @@ dependencies = [
     "bcrypt>=4.3.0",
     "fastapi[all]>=0.115.13",
     "passlib>=1.7.4",
+    "pymongo>=4.13.2",
     "python-jose>=3.5.0",
 ]
